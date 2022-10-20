@@ -12,4 +12,4 @@
 
 > [Github Link](https://github.com/abhishek7329sharma/)
 
-> [Live Link](https://app.netlify.com/sites/leafy-pegasus-d3c6cf/overview)
+> [Live Link](https://leafy-pegasus-d3c6cf.netlify.app/)
